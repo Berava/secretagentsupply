@@ -110,6 +110,18 @@ figure img {
   margin-bottom: 2rem;
 }
 
+.lastfigure img {
+  height: 4.5rem;
+  position: relative;
+  top: 2.8rem;
+
+}
+
+.lastfigure figcaption {
+  position: relative;
+  top:4.5rem;
+}
+
 /* Style for store opening hours */
 .store_opening_hours {
   width: 100%;
